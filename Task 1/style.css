@@ -279,6 +279,10 @@ h1{
     height: auto;
   }
 
+  .project-cols{
+    color: var(--background-primary);
+  }
+
   /* Skills section */
   .skill-section
   {
@@ -411,6 +415,8 @@ h1{
 .skills-img p
 {
   text-align: center;
+  color: var(--background-primary);
+
 }
 
 .skills-chart
@@ -486,6 +492,7 @@ h1{
 .project-cols
 {
   margin-top: 20px;
+  color: var(--background-primary);
 }
 
 .project-cols h2
